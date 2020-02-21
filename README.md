@@ -12,4 +12,4 @@
 1. Make a branch and switch to it
 2. Make a commit or more
 3. When done, push the branch to GitHub
-4. Testing
+4. Testing..
